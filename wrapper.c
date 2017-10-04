@@ -61,7 +61,7 @@ int main(int argc, char * argv[]) {
 			printf("done!");
 		}
 
-		sleep(60);
+		sleep(1800); //half an hour
 	}
 
 	return 0;

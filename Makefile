@@ -9,3 +9,6 @@ wrapper:wrapper.o
 
 wrapper.o:wrapper.c
 
+clean:
+	rm -vf wrapper wrapper.o post*
+
