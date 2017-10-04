@@ -1,5 +1,5 @@
 CC=gcc
-CCFLAGS=-Wall -g -fuse-ld=gold
+CCFLAGS=-Wall -g -fuse-ld=gold -std=c11
 
 .c.o:
 	$(CC) $(CCFLAGS) -c $<
