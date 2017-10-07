@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"  xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
-	<pubDate>Fri, 06 Oct 2017 12:00:01 +0000</pubDate>
+	<pubDate>Fri, 06 Oct 2017 23:30:02 +0000</pubDate>
 	<title>1st Awesome Platoon</title>
 	<description>1st Awesome Platoon. 5.4K likes. MLP:FIM Cold-war/Veitnam era comics and military humor.</description>
 	<image>
@@ -9,6 +9,15 @@
 		<title>1st Awesome Platoon</title>
 	</image>
 	<link>https://www.facebook.com/1stawesomeplatoon/posts</link>
+	<item>
+		<pubDate>Sat, 07 Oct 2017 00:29:22 +0000</pubDate>
+		<title>[Topkick] I fucked up and</title>
+		<description><![CDATA[<p>[Topkick] I fucked up and deleted the original 1AP font that we use as our signature on posts.</p><p> So we need a new one.</p><p> Pick one.<br/><br/><img src="https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/22228189_1088067197963353_9033930478854339819_n.png?oh=0699217a5ca544ac98f44893933590a2&amp;oe=5A80FA3A"/><br/><br/><img src="https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-1/p50x50/10678652_513148238788588_450289005298064376_n.png?oh=db255a7c787f97408c294b7284e8bacf&amp;oe=5A46BD46"/></p>]]></description>
+		<media:content>https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/22228189_1088067197963353_9033930478854339819_n.png?oh=0699217a5ca544ac98f44893933590a2&amp;oe=5A80FA3A</media:content>
+		<guid>https://www.facebook.com/1stawesomeplatoon/posts/1088067644629975</guid>
+		<link>https://www.facebook.com/1stawesomeplatoon/posts/1088067644629975</link>
+	</item>
+
 	<item>
 		<pubDate>Fri, 06 Oct 2017 01:24:42 +0000</pubDate>
 		<title>[Topkick] I&#039;m pretty</title>
@@ -174,19 +183,10 @@
 	<item>
 		<pubDate>Tue, 26 Sep 2017 23:48:20 +0000</pubDate>
 		<title>[Topkick] without starting</title>
-		<description><![CDATA[<p>[Topkick] without starting any annoying debates.</p><p> Where do you stand on kneeling during the national anthem.</p><p> If you support this type of protest....<br /> Like with a heart emoji</p><p> If you do not support this type of protest<br /> Like with a angry emoji<br/><br/><img src="https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-1/p50x50/10678652_513148238788588_450289005298064376_n.png?oh=db255a7c787f97408c294b7284e8bacf&amp;oe=5A46BD46"/></p>]]></description>
-		<media:content>https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-1/p50x50/10678652_513148238788588_450289005298064376_n.png?oh=db255a7c787f97408c294b7284e8bacf&amp;oe=5A46BD46</media:content>
-		<guid>https://www.facebook.com/1stawesomeplatoon/posts/1080682072035199</guid>
+		<description><![CDATA[<p>[Topkick] without starting any annoying debates.</p><p> Where do you stand on kneeling during the national anthem.</p><p> If you support this type of protest....<br /> Like with a heart emoji</p><p> If you do not support this type of protest<br /> Like with a angry emoji</p>]]></description>
+		<media:content>(null)</media:content>
 		<link>https://www.facebook.com/1stawesomeplatoon/posts/1080682072035199</link>
-	</item>
-
-	<item>
-		<pubDate>Tue, 26 Sep 2017 18:01:52 +0000</pubDate>
-		<title>[Topkick]</title>
-		<description><![CDATA[[Topkick]<br/><br/><img src="https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-0/s480x480/22007766_1080483482055058_3421632955576218419_n.jpg?oh=bbbccb34b262934ba2b2b703f8e0b936&amp;oe=5A7EF269"/>]]></description>
-		<media:content>https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-0/s480x480/22007766_1080483482055058_3421632955576218419_n.jpg?oh=bbbccb34b262934ba2b2b703f8e0b936&amp;oe=5A7EF269</media:content>
-		<link>https://www.facebook.com/1stawesomeplatoon/posts/1080483542055052</link>
-		<guid>https://www.facebook.com/1stawesomeplatoon/posts/1080483542055052</guid>
+		<guid>https://www.facebook.com/1stawesomeplatoon/posts/1080682072035199</guid>
 	</item>
 </channel>
 </rss>
