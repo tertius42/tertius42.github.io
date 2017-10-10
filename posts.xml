@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"  xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
-	<pubDate>Tue, 10 Oct 2017 13:30:02 +0000</pubDate>
+	<pubDate>Tue, 10 Oct 2017 19:30:02 +0000</pubDate>
 	<title>1st Awesome Platoon</title>
 	<description>1st Awesome Platoon. 5.5K likes. MLP:FIM Cold-war/Veitnam era comics and military humor.</description>
 	<image>
@@ -9,6 +9,15 @@
 		<title>1st Awesome Platoon</title>
 	</image>
 	<link>https://www.facebook.com/1stawesomeplatoon/posts</link>
+	<item>
+		<pubDate>Tue, 10 Oct 2017 20:16:34 +0000</pubDate>
+		<title>[Topkick] Sometimes I&#039;ll</title>
+		<description><![CDATA[[Topkick] Sometimes I&#039;ll find myself watching fan made MLP videos and creations and I just have to stop.<br /> It just happend right now I had to stop.<br /> I reached a limit on how much cuteness I can handle in one day. I physically can&#039;t watch anymore.<br/><br/><img src="https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-1/p50x50/10678652_513148238788588_450289005298064376_n.png?oh=db255a7c787f97408c294b7284e8bacf&amp;oe=5A46BD46"/>]]></description>
+		<media:content>https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-1/p50x50/10678652_513148238788588_450289005298064376_n.png?oh=db255a7c787f97408c294b7284e8bacf&amp;oe=5A46BD46</media:content>
+		<guid>https://www.facebook.com/1stawesomeplatoon/posts/1090931401010266</guid>
+		<link>https://www.facebook.com/1stawesomeplatoon/posts/1090931401010266</link>
+	</item>
+
 	<item>
 		<pubDate>Tue, 10 Oct 2017 14:19:32 +0000</pubDate>
 		<title>[Topkick]</title>
@@ -173,19 +182,10 @@
 	<item>
 		<pubDate>Fri, 29 Sep 2017 03:22:53 +0000</pubDate>
 		<title>[Topkick]</title>
-		<description><![CDATA[[Topkick]<br/><br/><img src="https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-0/s480x480/22046000_1082434641859942_3101165692491633984_n.png?oh=80b7882b222c1babe43a71589697ac21&amp;oe=5A3D6DE1"/><br/><br/><img src="https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-1/p50x50/10678652_513148238788588_450289005298064376_n.png?oh=db255a7c787f97408c294b7284e8bacf&amp;oe=5A46BD46"/>]]></description>
+		<description><![CDATA[[Topkick]<br/><br/><img src="https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-0/s480x480/22046000_1082434641859942_3101165692491633984_n.png?oh=80b7882b222c1babe43a71589697ac21&amp;oe=5A3D6DE1"/>]]></description>
 		<media:content>https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-0/s480x480/22046000_1082434641859942_3101165692491633984_n.png?oh=80b7882b222c1babe43a71589697ac21&amp;oe=5A3D6DE1</media:content>
-		<guid>https://www.facebook.com/1stawesomeplatoon/posts/1082434681859938</guid>
 		<link>https://www.facebook.com/1stawesomeplatoon/posts/1082434681859938</link>
-	</item>
-
-	<item>
-		<pubDate>Fri, 29 Sep 2017 01:15:25 +0000</pubDate>
-		<title>[Topkick]</title>
-		<description><![CDATA[[Topkick]<br/><br/><img src="https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-0/s480x480/22046842_1082346731868733_1243168128279109471_n.png?oh=cf4c326fc1c341ce3d7936efcb6323aa&amp;oe=5A888643"/>]]></description>
-		<media:content>https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-0/s480x480/22046842_1082346731868733_1243168128279109471_n.png?oh=cf4c326fc1c341ce3d7936efcb6323aa&amp;oe=5A888643</media:content>
-		<link>https://www.facebook.com/1stawesomeplatoon/posts/1082346771868729</link>
-		<guid>https://www.facebook.com/1stawesomeplatoon/posts/1082346771868729</guid>
+		<guid>https://www.facebook.com/1stawesomeplatoon/posts/1082434681859938</guid>
 	</item>
 </channel>
 </rss>
