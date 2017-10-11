@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"  xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
-	<pubDate>Wed, 11 Oct 2017 00:30:02 +0000</pubDate>
+	<pubDate>Wed, 11 Oct 2017 02:00:02 +0000</pubDate>
 	<title>1st Awesome Platoon</title>
 	<description>1st Awesome Platoon. 5.5K likes. MLP:FIM Cold-war/Veitnam era comics and military humor.</description>
 	<image>
@@ -9,6 +9,15 @@
 		<title>1st Awesome Platoon</title>
 	</image>
 	<link>https://www.facebook.com/1stawesomeplatoon/posts</link>
+	<item>
+		<pubDate>Wed, 11 Oct 2017 02:38:52 +0000</pubDate>
+		<title>[Topkick] </title>
+		<description><![CDATA[[Topkick] <br /> Grenade Pin and Life Ring<br /> Murder Steed and Splash Police<br /> Rapiddeploy and Portlock<br/><br/><img src="https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-0/s480x480/22365478_1091099474326792_951215037119981788_n.png?oh=0d6762d2db2a88eab7fa0e51d53f08b0&amp;oe=5A83A297"/><br/><br/><img src="https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-1/p50x50/10678652_513148238788588_450289005298064376_n.png?oh=6ca0a80e4d0330f02036c6935bcc66fd&amp;oe=5A6E4A46"/>]]></description>
+		<media:content>https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-0/s480x480/22365478_1091099474326792_951215037119981788_n.png?oh=0d6762d2db2a88eab7fa0e51d53f08b0&amp;oe=5A83A297</media:content>
+		<guid>https://www.facebook.com/1stawesomeplatoon/posts/1091099497660123</guid>
+		<link>https://www.facebook.com/1stawesomeplatoon/posts/1091099497660123</link>
+	</item>
+
 	<item>
 		<pubDate>Wed, 11 Oct 2017 01:01:25 +0000</pubDate>
 		<title>[Topkick]</title>
@@ -173,19 +182,10 @@
 	<item>
 		<pubDate>Sat, 30 Sep 2017 04:22:30 +0000</pubDate>
 		<title>[Topkick] Lol, I found this</title>
-		<description><![CDATA[[Topkick] Lol, I found this in an old file.<br /> My art skills may have improved over the years <br /> but I was always fucking hilarious.<br/><br/><img src="https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-0/s480x480/22045980_1083173095119430_5696103393887813725_n.png?oh=ef8ff8ef616d3153c433777c74700c95&amp;oe=5A878C87"/><br/><br/><img src="https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-1/p50x50/10678652_513148238788588_450289005298064376_n.png?oh=6ca0a80e4d0330f02036c6935bcc66fd&amp;oe=5A6E4A46"/>]]></description>
+		<description><![CDATA[[Topkick] Lol, I found this in an old file.<br /> My art skills may have improved over the years <br /> but I was always fucking hilarious.<br/><br/><img src="https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-0/s480x480/22045980_1083173095119430_5696103393887813725_n.png?oh=ef8ff8ef616d3153c433777c74700c95&amp;oe=5A878C87"/>]]></description>
 		<media:content>https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-0/s480x480/22045980_1083173095119430_5696103393887813725_n.png?oh=ef8ff8ef616d3153c433777c74700c95&amp;oe=5A878C87</media:content>
-		<guid>https://www.facebook.com/1stawesomeplatoon/posts/1083173411786065</guid>
 		<link>https://www.facebook.com/1stawesomeplatoon/posts/1083173411786065</link>
-	</item>
-
-	<item>
-		<pubDate>Sat, 30 Sep 2017 00:20:33 +0000</pubDate>
-		<title>[Topkick]</title>
-		<description><![CDATA[[Topkick]<br/><br/><img src="https://scontent-iad3-1.xx.fbcdn.net/v/t15.0-10/22136760_1083075198462553_2513396260115841024_n.jpg?oh=82395d46cd3af9fa51ef83d1c6e89990&amp;oe=5A741E80"/><br/><br/><img src="https://static.xx.fbcdn.net/rsrc.php/v3/y4/r/-PAXP-deijE.gif"/>]]></description>
-		<media:content>https://scontent-iad3-1.xx.fbcdn.net/v/t15.0-10/22136760_1083075198462553_2513396260115841024_n.jpg?oh=82395d46cd3af9fa51ef83d1c6e89990&amp;oe=5A741E80</media:content>
-		<link>https://www.facebook.com/1stawesomeplatoon/posts/1083074321795974</link>
-		<guid>https://www.facebook.com/1stawesomeplatoon/posts/1083074321795974</guid>
+		<guid>https://www.facebook.com/1stawesomeplatoon/posts/1083173411786065</guid>
 	</item>
 </channel>
 </rss>
