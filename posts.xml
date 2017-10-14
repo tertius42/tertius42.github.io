@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"  xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
-	<pubDate>Sat, 14 Oct 2017 07:00:02 +0000</pubDate>
+	<pubDate>Sat, 14 Oct 2017 16:00:02 +0000</pubDate>
 	<title>1st Awesome Platoon</title>
 	<description>1st Awesome Platoon. 5.5K likes. MLP:FIM Cold-war/Veitnam era comics and military humor.</description>
 	<image>
@@ -9,6 +9,15 @@
 		<title>1st Awesome Platoon</title>
 	</image>
 	<link>https://www.facebook.com/1stawesomeplatoon/posts</link>
+	<item>
+		<pubDate>Sat, 14 Oct 2017 16:45:04 +0000</pubDate>
+		<title>[Topkick] Mock them if you</title>
+		<description><![CDATA[[Topkick] Mock them if you must.<br /> But who else will fight the pirates?<br/><br/><img src="https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-0/s480x480/22448400_1093762780727128_4114966488908085307_n.png?oh=22b68f8aff977238dfcee24efe82178c&amp;oe=5A6A344C"/><br/><br/><img src="https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-1/p50x50/10678652_513148238788588_450289005298064376_n.png?oh=6ca0a80e4d0330f02036c6935bcc66fd&amp;oe=5A6E4A46"/>]]></description>
+		<media:content>https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-0/s480x480/22448400_1093762780727128_4114966488908085307_n.png?oh=22b68f8aff977238dfcee24efe82178c&amp;oe=5A6A344C</media:content>
+		<guid>https://www.facebook.com/1stawesomeplatoon/posts/1093762927393780</guid>
+		<link>https://www.facebook.com/1stawesomeplatoon/posts/1093762927393780</link>
+	</item>
+
 	<item>
 		<pubDate>Sat, 14 Oct 2017 03:03:44 +0000</pubDate>
 		<title>[Topkick] my sister got my</title>
@@ -173,19 +182,10 @@
 	<item>
 		<pubDate>Mon, 02 Oct 2017 02:06:37 +0000</pubDate>
 		<title>[Topkick] Where is your reflective</title>
-		<description><![CDATA[[Topkick] Where is your reflective belt!?<br/><br/><img src="https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-0/s480x480/22154218_1084478698322203_6386579346151866864_n.png?oh=8b02b2ee3d5ce22c31e69534c08c5f7b&amp;oe=5A3C13DE"/><br/><br/><img src="https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-1/p50x50/10678652_513148238788588_450289005298064376_n.png?oh=6ca0a80e4d0330f02036c6935bcc66fd&amp;oe=5A6E4A46"/>]]></description>
+		<description><![CDATA[[Topkick] Where is your reflective belt!?<br/><br/><img src="https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-0/s480x480/22154218_1084478698322203_6386579346151866864_n.png?oh=8b02b2ee3d5ce22c31e69534c08c5f7b&amp;oe=5A3C13DE"/>]]></description>
 		<media:content>https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-0/s480x480/22154218_1084478698322203_6386579346151866864_n.png?oh=8b02b2ee3d5ce22c31e69534c08c5f7b&amp;oe=5A3C13DE</media:content>
-		<guid>https://www.facebook.com/1stawesomeplatoon/posts/1084478731655533</guid>
 		<link>https://www.facebook.com/1stawesomeplatoon/posts/1084478731655533</link>
-	</item>
-
-	<item>
-		<pubDate>Sun, 01 Oct 2017 23:41:17 +0000</pubDate>
-		<title>[Topkick] </title>
-		<description><![CDATA[[Topkick] https://youtu.be/d8kNQsPwXo0<br/><br/><img src="https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-0/s480x480/22050165_1084422498327823_427296188944195961_n.png?oh=64cf10ada459e8ebbaaca8cd3b8fe2b5&amp;oe=5A77947C"/>]]></description>
-		<media:content>https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-0/s480x480/22050165_1084422498327823_427296188944195961_n.png?oh=64cf10ada459e8ebbaaca8cd3b8fe2b5&amp;oe=5A77947C</media:content>
-		<link>https://www.facebook.com/1stawesomeplatoon/posts/1084422524994487</link>
-		<guid>https://www.facebook.com/1stawesomeplatoon/posts/1084422524994487</guid>
+		<guid>https://www.facebook.com/1stawesomeplatoon/posts/1084478731655533</guid>
 	</item>
 </channel>
 </rss>
