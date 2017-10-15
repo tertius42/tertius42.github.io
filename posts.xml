@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"  xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
-	<pubDate>Sun, 15 Oct 2017 02:30:02 +0000</pubDate>
+	<pubDate>Sun, 15 Oct 2017 04:00:02 +0000</pubDate>
 	<title>1st Awesome Platoon</title>
 	<description>1st Awesome Platoon. 5.5K likes. MLP:FIM Cold-war/Veitnam era comics and military humor.</description>
 	<image>
@@ -9,6 +9,15 @@
 		<title>1st Awesome Platoon</title>
 	</image>
 	<link>https://www.facebook.com/1stawesomeplatoon/posts</link>
+	<item>
+		<pubDate>Sun, 15 Oct 2017 04:59:43 +0000</pubDate>
+		<title>[Topkick] I&#039;ve noticed</title>
+		<description><![CDATA[[Topkick] I&#039;ve noticed a lot of our fans are not in the US military.<br /> 1AP wants everyone to learn, so here&#039;s a list of the US Army ranks.<br/><br/><img src="https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-0/s480x480/22491491_1094100564026683_7970726821729896932_n.png?oh=ae16c6fd3abc4450f3961023de19df6f&amp;oe=5A78B1D6"/><br/><br/><img src="https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-1/p50x50/10678652_513148238788588_450289005298064376_n.png?oh=6ca0a80e4d0330f02036c6935bcc66fd&amp;oe=5A6E4A46"/>]]></description>
+		<media:content>https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-0/s480x480/22491491_1094100564026683_7970726821729896932_n.png?oh=ae16c6fd3abc4450f3961023de19df6f&amp;oe=5A78B1D6</media:content>
+		<guid>https://www.facebook.com/1stawesomeplatoon/posts/1094101157359957</guid>
+		<link>https://www.facebook.com/1stawesomeplatoon/posts/1094101157359957</link>
+	</item>
+
 	<item>
 		<pubDate>Sun, 15 Oct 2017 03:22:53 +0000</pubDate>
 		<title>[Topkick]</title>
@@ -174,19 +183,10 @@
 	<item>
 		<pubDate>Mon, 09 Oct 2017 01:27:24 +0000</pubDate>
 		<title>[Topkick]</title>
-		<description><![CDATA[[Topkick]<br/><br/><img src="https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-0/s480x480/22365540_1089620317808041_8189318573776195238_n.png?oh=434f5633906a6a540512ba8d3b8170e7&amp;oe=5A7F2380"/><br/><br/><img src="https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-1/p50x50/10678652_513148238788588_450289005298064376_n.png?oh=6ca0a80e4d0330f02036c6935bcc66fd&amp;oe=5A6E4A46"/>]]></description>
+		<description><![CDATA[[Topkick]<br/><br/><img src="https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-0/s480x480/22365540_1089620317808041_8189318573776195238_n.png?oh=434f5633906a6a540512ba8d3b8170e7&amp;oe=5A7F2380"/>]]></description>
 		<media:content>https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-0/s480x480/22365540_1089620317808041_8189318573776195238_n.png?oh=434f5633906a6a540512ba8d3b8170e7&amp;oe=5A7F2380</media:content>
-		<guid>https://www.facebook.com/1stawesomeplatoon/posts/1089620381141368</guid>
 		<link>https://www.facebook.com/1stawesomeplatoon/posts/1089620381141368</link>
-	</item>
-
-	<item>
-		<pubDate>Sun, 08 Oct 2017 02:49:49 +0000</pubDate>
-		<title>[Topkick]</title>
-		<description><![CDATA[[Topkick]<br/><br/><img src="https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-0/s480x480/22281915_1088879631215443_4791879766809302072_n.png?oh=69a2d0e33ea1c9a023fbd39e7df713fe&amp;oe=5A3E187E"/>]]></description>
-		<media:content>https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-0/s480x480/22281915_1088879631215443_4791879766809302072_n.png?oh=69a2d0e33ea1c9a023fbd39e7df713fe&amp;oe=5A3E187E</media:content>
-		<link>https://www.facebook.com/1stawesomeplatoon/posts/1088879657882107</link>
-		<guid>https://www.facebook.com/1stawesomeplatoon/posts/1088879657882107</guid>
+		<guid>https://www.facebook.com/1stawesomeplatoon/posts/1089620381141368</guid>
 	</item>
 </channel>
 </rss>
