@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"  xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
-	<pubDate>Mon, 23 Oct 2017 20:30:02 +0000</pubDate>
+	<pubDate>Tue, 24 Oct 2017 00:00:01 +0000</pubDate>
 	<title>1st Awesome Platoon</title>
 	<description>1st Awesome Platoon. 5.5K likes. MLP:FIM Cold-war/Veitnam era comics and military humor.</description>
 	<image>
@@ -9,6 +9,15 @@
 		<title>1st Awesome Platoon</title>
 	</image>
 	<link>https://www.facebook.com/1stawesomeplatoon/posts</link>
+	<item>
+		<pubDate>Tue, 24 Oct 2017 00:32:51 +0000</pubDate>
+		<title>[Topkick] Do you guys actually</title>
+		<description><![CDATA[[Topkick] Do you guys actually like my comics, or are all 5.5 thousand of you just doing this because you feel sorry for me?<br/><br/><img src="https://scontent.fric1-2.fna.fbcdn.net/v/t1.0-1/p50x50/10678652_513148238788588_450289005298064376_n.png?oh=6ca0a80e4d0330f02036c6935bcc66fd&amp;oe=5A6E4A46"/>]]></description>
+		<media:content>https://scontent.fric1-2.fna.fbcdn.net/v/t1.0-1/p50x50/10678652_513148238788588_450289005298064376_n.png?oh=6ca0a80e4d0330f02036c6935bcc66fd&amp;oe=5A6E4A46</media:content>
+		<guid>https://www.facebook.com/1stawesomeplatoon/posts/1100422670061139</guid>
+		<link>https://www.facebook.com/1stawesomeplatoon/posts/1100422670061139</link>
+	</item>
+
 	<item>
 		<pubDate>Mon, 23 Oct 2017 21:01:00 +0000</pubDate>
 		<title>[Topkick] I was one of those</title>
@@ -174,19 +183,10 @@
 	<item>
 		<pubDate>Sat, 21 Oct 2017 01:33:06 +0000</pubDate>
 		<title>[Topkick]</title>
-		<description><![CDATA[[Topkick]<br/><br/><img src="https://scontent.fric1-2.fna.fbcdn.net/v/t1.0-1/p50x50/10678652_513148238788588_450289005298064376_n.png?oh=6ca0a80e4d0330f02036c6935bcc66fd&amp;oe=5A6E4A46"/>]]></description>
+		<description><![CDATA[[Topkick]]]></description>
 		<media:content>https://scontent.fric1-2.fna.fbcdn.net/v/t1.0-0/s480x480/11013039_620118584758219_6736323389678074089_n.png?oh=570c451a21b67fe7f5b17fb74b1fd9ae&amp;oe=5A69E377</media:content>
-		<guid>https://www.facebook.com/1stawesomeplatoon/posts/1098336076936465</guid>
 		<link>https://www.facebook.com/1stawesomeplatoon/posts/1098336076936465</link>
-	</item>
-
-	<item>
-		<pubDate>Sat, 21 Oct 2017 01:13:22 +0000</pubDate>
-		<title>[Topkick] Coffee coffee coffee</title>
-		<description><![CDATA[[Topkick] Coffee coffee coffee coffee<br/><br/><img src="https://scontent.fric1-2.fna.fbcdn.net/v/t1.0-0/s526x395/22555050_1098329120270494_7683649317001473139_n.png?oh=141056b271551f917c13cecc41fce35a&amp;oe=5A61B067"/>]]></description>
-		<media:content>https://scontent.fric1-2.fna.fbcdn.net/v/t1.0-0/s526x395/22555050_1098329120270494_7683649317001473139_n.png?oh=141056b271551f917c13cecc41fce35a&amp;oe=5A61B067</media:content>
-		<link>https://www.facebook.com/1stawesomeplatoon/posts/1098329246937148</link>
-		<guid>https://www.facebook.com/1stawesomeplatoon/posts/1098329246937148</guid>
+		<guid>https://www.facebook.com/1stawesomeplatoon/posts/1098336076936465</guid>
 	</item>
 </channel>
 </rss>
