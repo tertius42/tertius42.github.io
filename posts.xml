@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"  xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
-	<pubDate>Tue, 24 Oct 2017 01:00:02 +0000</pubDate>
+	<pubDate>Tue, 24 Oct 2017 01:30:02 +0000</pubDate>
 	<title>1st Awesome Platoon</title>
 	<description>1st Awesome Platoon. 5.5K likes. MLP:FIM Cold-war/Veitnam era comics and military humor.</description>
 	<image>
@@ -9,15 +9,6 @@
 		<title>1st Awesome Platoon</title>
 	</image>
 	<link>https://www.facebook.com/1stawesomeplatoon/posts</link>
-	<item>
-		<pubDate>Tue, 24 Oct 2017 01:59:19 +0000</pubDate>
-		<title>[Topkick] I didn&#039;t know</title>
-		<description><![CDATA[<p>[Topkick] I didn&#039;t know iPhoto does this but when I saw it, it brought back a lot of memories. I took out the names and added our ranks instead. Our paintball team was called ESF, and we took it pretty seriously. </p><p> 1AP started as a pony representation of my paintball team.<br /> The main characters you see in our banner were modeled after our top guys. </p>...<p> I was the First Sergeant of the team, so basically all squad movements and the way we operated on field was my doing.<br /> I also looked after member heath, hydration and such. And made sure everyone&#039;s marker was working. I can fix anything tippmann. Anything that that to do with how our members acted on and off field and their general heath and ability to play was my job.</p><p> That&#039;s why my name is Topkick, I can&#039;t call myself Top since I&#039;m not a real First Sergeant, so Topkick it was.</p><p> I sure do miss the good old days, we were a force to be reckoned with. We had at our peak about 100 members.<br/><br/><img src="https://scontent.fric1-2.fna.fbcdn.net/v/t1.0-0/s480x480/22728729_1100456730057733_88193336190707548_n.jpg?oh=d3aa4e75f3429553859fedce081b4ccf&amp;oe=5A65FEEC"/><br/><br/><img src="https://scontent.fric1-2.fna.fbcdn.net/v/t1.0-1/p50x50/10678652_513148238788588_450289005298064376_n.png?oh=6ca0a80e4d0330f02036c6935bcc66fd&amp;oe=5A6E4A46"/></p>]]></description>
-		<media:content>https://scontent.fric1-2.fna.fbcdn.net/v/t1.0-0/s480x480/22728729_1100456730057733_88193336190707548_n.jpg?oh=d3aa4e75f3429553859fedce081b4ccf&amp;oe=5A65FEEC</media:content>
-		<guid>https://www.facebook.com/1stawesomeplatoon/posts/1100463220057084</guid>
-		<link>https://www.facebook.com/1stawesomeplatoon/posts/1100463220057084</link>
-	</item>
-
 	<item>
 		<pubDate>Tue, 24 Oct 2017 01:05:03 +0000</pubDate>
 		<title>[Topkick]</title>
@@ -183,10 +174,19 @@
 	<item>
 		<pubDate>Sat, 21 Oct 2017 01:45:03 +0000</pubDate>
 		<title>[Topkick] The life of Cooper</title>
-		<description><![CDATA[[Topkick] The life of Cooper]]></description>
+		<description><![CDATA[[Topkick] The life of Cooper<br/><br/><img src="https://scontent.fric1-2.fna.fbcdn.net/v/t1.0-1/p50x50/10678652_513148238788588_450289005298064376_n.png?oh=6ca0a80e4d0330f02036c6935bcc66fd&amp;oe=5A6E4A46"/>]]></description>
 		<media:content>https://scontent.fric1-2.fna.fbcdn.net/v/t1.0-0/p403x403/10349007_518943594875719_3012717148141881970_n.png?oh=847c3833bcf372bf7e4a4c1c55984c52&amp;oe=5A6886B9</media:content>
-		<link>https://www.facebook.com/1stawesomeplatoon/posts/1098339556936117</link>
 		<guid>https://www.facebook.com/1stawesomeplatoon/posts/1098339556936117</guid>
+		<link>https://www.facebook.com/1stawesomeplatoon/posts/1098339556936117</link>
+	</item>
+
+	<item>
+		<pubDate>Sat, 21 Oct 2017 01:36:53 +0000</pubDate>
+		<title>[Topkick]</title>
+		<description><![CDATA[[Topkick]]]></description>
+		<media:content>https://scontent.fric1-2.fna.fbcdn.net/v/t1.0-0/s480x480/12243181_655104621259615_1428086990404825113_n.png?oh=8d3c1b331eb6123e19a791a79a327167&amp;oe=5A714A94</media:content>
+		<link>https://www.facebook.com/1stawesomeplatoon/posts/1098337296936343</link>
+		<guid>https://www.facebook.com/1stawesomeplatoon/posts/1098337296936343</guid>
 	</item>
 </channel>
 </rss>
