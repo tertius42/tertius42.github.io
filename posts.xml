@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"  xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
-	<pubDate>Tue, 24 Oct 2017 05:00:03 +0000</pubDate>
+	<pubDate>Tue, 24 Oct 2017 14:00:02 +0000</pubDate>
 	<title>1st Awesome Platoon</title>
 	<description>1st Awesome Platoon. 5.5K likes. MLP:FIM Cold-war/Veitnam era comics and military humor.</description>
 	<image>
@@ -9,6 +9,15 @@
 		<title>1st Awesome Platoon</title>
 	</image>
 	<link>https://www.facebook.com/1stawesomeplatoon/posts</link>
+	<item>
+		<pubDate>Tue, 24 Oct 2017 14:33:42 +0000</pubDate>
+		<title>[Topkick] COATS COATS COATS</title>
+		<description><![CDATA[[Topkick] COATS COATS COATS COATS!!!<br/><br/><img src="https://scontent.fric1-2.fna.fbcdn.net/v/t1.0-0/s480x480/22688647_1100883850015021_6991995459470807013_n.png?oh=7e2063abdc3f957e75f36a3958c5dbad&amp;oe=5AAB65AB"/><br/><br/><img src="https://scontent.fric1-2.fna.fbcdn.net/v/t1.0-1/p50x50/10678652_513148238788588_450289005298064376_n.png?oh=6ca0a80e4d0330f02036c6935bcc66fd&amp;oe=5A6E4A46"/>]]></description>
+		<media:content>https://scontent.fric1-2.fna.fbcdn.net/v/t1.0-0/s480x480/22688647_1100883850015021_6991995459470807013_n.png?oh=7e2063abdc3f957e75f36a3958c5dbad&amp;oe=5AAB65AB</media:content>
+		<guid>https://www.facebook.com/1stawesomeplatoon/posts/1100884023348337</guid>
+		<link>https://www.facebook.com/1stawesomeplatoon/posts/1100884023348337</link>
+	</item>
+
 	<item>
 		<pubDate>Tue, 24 Oct 2017 04:35:43 +0000</pubDate>
 		<title>[Topkick] An old comic updated</title>
@@ -174,19 +183,10 @@
 	<item>
 		<pubDate>Sat, 21 Oct 2017 02:03:17 +0000</pubDate>
 		<title>[Topkick] All our horses</title>
-		<description><![CDATA[[Topkick] All our horses are alcoholics, just like you.<br/><br/><img src="https://scontent.fric1-2.fna.fbcdn.net/v/t1.0-0/s480x480/22552828_1098346306935442_4141274202230821475_n.png?oh=706436f5f94a4e797fa5b808c7302ae1&amp;oe=5A7FFEEC"/><br/><br/><img src="https://scontent.fric1-2.fna.fbcdn.net/v/t1.0-1/p50x50/10678652_513148238788588_450289005298064376_n.png?oh=6ca0a80e4d0330f02036c6935bcc66fd&amp;oe=5A6E4A46"/>]]></description>
+		<description><![CDATA[[Topkick] All our horses are alcoholics, just like you.<br/><br/><img src="https://scontent.fric1-2.fna.fbcdn.net/v/t1.0-0/s480x480/22552828_1098346306935442_4141274202230821475_n.png?oh=706436f5f94a4e797fa5b808c7302ae1&amp;oe=5A7FFEEC"/>]]></description>
 		<media:content>https://scontent.fric1-2.fna.fbcdn.net/v/t1.0-0/s480x480/22552828_1098346306935442_4141274202230821475_n.png?oh=706436f5f94a4e797fa5b808c7302ae1&amp;oe=5A7FFEEC</media:content>
-		<guid>https://www.facebook.com/1stawesomeplatoon/posts/1098346513602088</guid>
 		<link>https://www.facebook.com/1stawesomeplatoon/posts/1098346513602088</link>
-	</item>
-
-	<item>
-		<pubDate>Sat, 21 Oct 2017 01:59:12 +0000</pubDate>
-		<title>[Topkick]</title>
-		<description><![CDATA[<p>[Topkick]</p><p> </p><p> ...<br /> Just so we are clear:</p><p> FS: USMC E-4 &quot;Corporal&quot;<br /> TS: ARMY O-3 &quot;Captain&quot; (Military Intelligence)<br /> R: USCG E-3 &quot;Seamen&quot;<br /> AJ: ARMY E-5 &quot;Sergeant&quot; (Cavalry)<br /> PP: USN E-3 &quot;Seamen&quot;<br /> RD: USAF O-1 &quot;Second Lieutenant&quot;</p>]]></description>
-		<media:content>https://scontent.fric1-2.fna.fbcdn.net/v/t1.0-0/s480x480/1483054_406996962737050_990185048_n.png?oh=b0c627a19fd4ca3a1bbc9b665b2feb31&amp;oe=5A625876</media:content>
-		<link>https://www.facebook.com/1stawesomeplatoon/posts/1098344960268910</link>
-		<guid>https://www.facebook.com/1stawesomeplatoon/posts/1098344960268910</guid>
+		<guid>https://www.facebook.com/1stawesomeplatoon/posts/1098346513602088</guid>
 	</item>
 </channel>
 </rss>
