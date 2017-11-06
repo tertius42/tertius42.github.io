@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"  xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
-	<pubDate>Sun, 05 Nov 2017 23:00:02 +0000</pubDate>
+	<pubDate>Mon, 06 Nov 2017 01:30:03 +0000</pubDate>
 	<title>1st Awesome Platoon</title>
 	<description>1st Awesome Platoon. 5.5K likes. MLP:FIM Cold-war/Veitnam era comics and military humor.</description>
 	<image>
@@ -15,6 +15,23 @@
 		<media:content>(null)</media:content>
 		<guid>https://www.facebook.com/1stawesomeplatoon/posts/1099514836818589</guid>
 		<link>https://www.facebook.com/1stawesomeplatoon/posts/1099514836818589</link>
+	</item>
+
+	<item>
+		<pubDate>Mon, 06 Nov 2017 02:28:22 +0000</pubDate>
+		<title>[Topkick] PS3 COD WW2</title>
+		<description><![CDATA[<p>[Topkick] PS3 COD WW2</p><p> I just got a PS3, and I ain&#039;t got no friends. Add me: Topkick3</p>]]></description>
+		<media:content>(null)</media:content>
+		<guid>https://www.facebook.com/1stawesomeplatoon/posts/1110070882429651</guid>
+		<link>https://www.facebook.com/1stawesomeplatoon/posts/1110070882429651</link>
+	</item>
+
+	<item>
+		<pubDate>Mon, 06 Nov 2017 02:28:22 +0000</pubDate>
+		<description><![CDATA[<p>[Topkick] PS3 COD WW2</p><p> I just got a PS3, and I ain&#039;t got no friends. Add me: Topkick3<br/><br/><img src="https://scontent.fric1-1.fna.fbcdn.net/v/t1.0-1/p50x50/10678652_513148238788588_450289005298064376_n.png?oh=6ca0a80e4d0330f02036c6935bcc66fd&amp;oe=5A6E4A46"/></p>]]></description>
+		<media:content>https://scontent.fric1-1.fna.fbcdn.net/v/t1.0-1/p50x50/10678652_513148238788588_450289005298064376_n.png?oh=6ca0a80e4d0330f02036c6935bcc66fd&amp;oe=5A6E4A46</media:content>
+		<guid>https://www.facebook.com/1stawesomeplatoon/posts/1110070882429651</guid>
+		<link>https://www.facebook.com/1stawesomeplatoon/posts/1110070882429651</link>
 	</item>
 
 	<item>
@@ -328,25 +345,8 @@
 		<title>[Topkick]</title>
 		<description><![CDATA[[Topkick]<br/><br/><img src="https://scontent.fric1-1.fna.fbcdn.net/v/t1.0-0/s526x395/22687828_1100143630089043_6617122885897299527_n.png?oh=1fa16674a55d9dd127ba2487abaf21a2&amp;oe=5AA973E4"/>]]></description>
 		<media:content>https://scontent.fric1-1.fna.fbcdn.net/v/t1.0-0/s526x395/22687828_1100143630089043_6617122885897299527_n.png?oh=1fa16674a55d9dd127ba2487abaf21a2&amp;oe=5AA973E4</media:content>
-		<guid>https://www.facebook.com/1stawesomeplatoon/posts/1100143713422368</guid>
 		<link>https://www.facebook.com/1stawesomeplatoon/posts/1100143713422368</link>
-	</item>
-
-	<item>
-		<pubDate>Mon, 23 Oct 2017 15:52:20 +0000</pubDate>
-		<description><![CDATA[[Topkick]<br/><br/><img src="https://scontent.fric1-1.fna.fbcdn.net/v/t1.0-0/s526x395/22687828_1100143630089043_6617122885897299527_n.png?oh=1fa16674a55d9dd127ba2487abaf21a2&amp;oe=5AA973E4"/><br/><br/><img src="https://scontent.fric1-1.fna.fbcdn.net/v/t1.0-1/p50x50/10678652_513148238788588_450289005298064376_n.png?oh=6ca0a80e4d0330f02036c6935bcc66fd&amp;oe=5A6E4A46"/>]]></description>
-		<media:content>https://scontent.fric1-1.fna.fbcdn.net/v/t1.0-1/p50x50/10678652_513148238788588_450289005298064376_n.png?oh=6ca0a80e4d0330f02036c6935bcc66fd&amp;oe=5A6E4A46</media:content>
 		<guid>https://www.facebook.com/1stawesomeplatoon/posts/1100143713422368</guid>
-		<link>https://www.facebook.com/1stawesomeplatoon/posts/1100143713422368</link>
-	</item>
-
-	<item>
-		<pubDate>Mon, 23 Oct 2017 11:39:07 +0000</pubDate>
-		<title>[Topkick] due to all the</title>
-		<description><![CDATA[<p>[Topkick] due to all the posts laying out situations where someone or something has entered your house and the object to your left or right is your weapon, how fucked are you? I now have weapons laid out on the left and right of every place in my house.</p><p> Too many times have I been stuck with a keyboard or a magazine. (The one you read not the one that holds boom pellets)</p>]]></description>
-		<media:content>(null)</media:content>
-		<link>https://www.facebook.com/1stawesomeplatoon/posts/1099989766771096</link>
-		<guid>https://www.facebook.com/1stawesomeplatoon/posts/1099989766771096</guid>
 	</item>
 </channel>
 </rss>
