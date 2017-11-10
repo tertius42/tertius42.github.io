@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"  xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
-	<pubDate>Fri, 10 Nov 2017 06:30:04 +0000</pubDate>
+	<pubDate>Fri, 10 Nov 2017 07:00:02 +0000</pubDate>
 	<title>1st Awesome Platoon</title>
 	<description>1st Awesome Platoon. 5.5K likes. MLP:FIM Cold-war/Veitnam era comics and military humor.</description>
 	<image>
@@ -15,6 +15,23 @@
 		<media:content>(null)</media:content>
 		<guid>https://www.facebook.com/1stawesomeplatoon/posts/1099514836818589</guid>
 		<link>https://www.facebook.com/1stawesomeplatoon/posts/1099514836818589</link>
+	</item>
+
+	<item>
+		<pubDate>Fri, 10 Nov 2017 07:38:14 +0000</pubDate>
+		<title>[Topkick] Since no one seems</title>
+		<description><![CDATA[[Topkick] Since no one seems to have found it.<br/><br/><img src="https://scontent.fric1-1.fna.fbcdn.net/v/t1.0-0/s480x480/23434758_1113057065464366_7088369310995518494_n.png?oh=f4cf8eab279cd0552ca43728a59ccd84&amp;oe=5A961C1F"/>]]></description>
+		<media:content>https://scontent.fric1-1.fna.fbcdn.net/v/t1.0-0/s480x480/23434758_1113057065464366_7088369310995518494_n.png?oh=f4cf8eab279cd0552ca43728a59ccd84&amp;oe=5A961C1F</media:content>
+		<guid>https://www.facebook.com/1stawesomeplatoon/posts/1113057148797691</guid>
+		<link>https://www.facebook.com/1stawesomeplatoon/posts/1113057148797691</link>
+	</item>
+
+	<item>
+		<pubDate>Fri, 10 Nov 2017 07:38:14 +0000</pubDate>
+		<description><![CDATA[[Topkick] Since no one seems to have found it.<br/><br/><img src="https://scontent.fric1-1.fna.fbcdn.net/v/t1.0-0/s480x480/23434758_1113057065464366_7088369310995518494_n.png?oh=f4cf8eab279cd0552ca43728a59ccd84&amp;oe=5A961C1F"/><br/><br/><img src="https://scontent.fric1-1.fna.fbcdn.net/v/t1.0-1/p50x50/10678652_513148238788588_450289005298064376_n.png?oh=543e9ce0d8c7fe22f822783520a00eb0&amp;oe=5A95D746"/>]]></description>
+		<media:content>https://scontent.fric1-1.fna.fbcdn.net/v/t1.0-1/p50x50/10678652_513148238788588_450289005298064376_n.png?oh=543e9ce0d8c7fe22f822783520a00eb0&amp;oe=5A95D746</media:content>
+		<guid>https://www.facebook.com/1stawesomeplatoon/posts/1113057148797691</guid>
+		<link>https://www.facebook.com/1stawesomeplatoon/posts/1113057148797691</link>
 	</item>
 
 	<item>
@@ -328,25 +345,8 @@
 		<title>[Topkick]</title>
 		<description><![CDATA[[Topkick]]]></description>
 		<media:content>https://scontent.fric1-1.fna.fbcdn.net/v/t1.0-0/s480x480/1175329_377797758990304_401866717_n.jpg?oh=56112697f2aa1b81442bdb675345afbe&amp;oe=5A6894EA</media:content>
-		<guid>https://www.facebook.com/1stawesomeplatoon/posts/1100521143384625</guid>
 		<link>https://www.facebook.com/1stawesomeplatoon/posts/1100521143384625</link>
-	</item>
-
-	<item>
-		<pubDate>Thu, 29 Aug 2013 22:26:31 +0000</pubDate>
-		<description><![CDATA[[Topkick]<br/><br/><img src="https://scontent.fric1-1.fna.fbcdn.net/v/t1.0-1/p50x50/10678652_513148238788588_450289005298064376_n.png?oh=543e9ce0d8c7fe22f822783520a00eb0&amp;oe=5A95D746"/>]]></description>
-		<media:content>https://scontent.fric1-1.fna.fbcdn.net/v/t1.0-1/p50x50/10678652_513148238788588_450289005298064376_n.png?oh=543e9ce0d8c7fe22f822783520a00eb0&amp;oe=5A95D746</media:content>
 		<guid>https://www.facebook.com/1stawesomeplatoon/posts/1100521143384625</guid>
-		<link>https://www.facebook.com/1stawesomeplatoon/posts/1100521143384625</link>
-	</item>
-
-	<item>
-		<pubDate>Tue, 24 Oct 2017 03:59:34 +0000</pubDate>
-		<title>[Topkick] Oh this one&#039;s</title>
-		<description><![CDATA[[Topkick] Oh this one&#039;s a classic<br/><br/><img src="https://scontent.fric1-1.fna.fbcdn.net/v/t31.0-0/p480x480/1039903_355856244517789_1434360848_o.png?oh=1933b50eb7d5c0700b705d4f9b05bf5b&amp;oe=5AA42EA4"/>]]></description>
-		<media:content>https://scontent.fric1-1.fna.fbcdn.net/v/t31.0-0/p480x480/1039903_355856244517789_1434360848_o.png?oh=1933b50eb7d5c0700b705d4f9b05bf5b&amp;oe=5AA42EA4</media:content>
-		<link>https://www.facebook.com/1stawesomeplatoon/posts/1100520153384724</link>
-		<guid>https://www.facebook.com/1stawesomeplatoon/posts/1100520153384724</guid>
 	</item>
 </channel>
 </rss>
