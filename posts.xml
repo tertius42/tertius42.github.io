@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"  xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
-	<pubDate>Fri, 10 Nov 2017 00:00:01 +0000</pubDate>
+	<pubDate>Fri, 10 Nov 2017 00:30:01 +0000</pubDate>
 	<title>1st Awesome Platoon</title>
 	<description>1st Awesome Platoon. 5.5K likes. MLP:FIM Cold-war/Veitnam era comics and military humor.</description>
 	<image>
@@ -15,6 +15,23 @@
 		<media:content>(null)</media:content>
 		<guid>https://www.facebook.com/1stawesomeplatoon/posts/1099514836818589</guid>
 		<link>https://www.facebook.com/1stawesomeplatoon/posts/1099514836818589</link>
+	</item>
+
+	<item>
+		<pubDate>Fri, 10 Nov 2017 01:06:14 +0000</pubDate>
+		<title>[Topkick]</title>
+		<description><![CDATA[[Topkick]<br/><br/><img src="https://scontent.fric1-1.fna.fbcdn.net/v/t1.0-0/s480x480/23231647_1112863312150408_2257310621240674454_n.jpg?oh=e20c329a3c5a8d0770d54860dd0f6cc3&amp;oe=5AAD3EDA"/>]]></description>
+		<media:content>https://scontent.fric1-1.fna.fbcdn.net/v/t1.0-0/s480x480/23231647_1112863312150408_2257310621240674454_n.jpg?oh=e20c329a3c5a8d0770d54860dd0f6cc3&amp;oe=5AAD3EDA</media:content>
+		<guid>https://www.facebook.com/1stawesomeplatoon/posts/1112863358817070</guid>
+		<link>https://www.facebook.com/1stawesomeplatoon/posts/1112863358817070</link>
+	</item>
+
+	<item>
+		<pubDate>Fri, 10 Nov 2017 01:06:14 +0000</pubDate>
+		<description><![CDATA[[Topkick]<br/><br/><img src="https://scontent.fric1-1.fna.fbcdn.net/v/t1.0-0/s480x480/23231647_1112863312150408_2257310621240674454_n.jpg?oh=e20c329a3c5a8d0770d54860dd0f6cc3&amp;oe=5AAD3EDA"/><br/><br/><img src="https://scontent.fric1-1.fna.fbcdn.net/v/t1.0-1/p50x50/10678652_513148238788588_450289005298064376_n.png?oh=543e9ce0d8c7fe22f822783520a00eb0&amp;oe=5A95D746"/>]]></description>
+		<media:content>https://scontent.fric1-1.fna.fbcdn.net/v/t1.0-1/p50x50/10678652_513148238788588_450289005298064376_n.png?oh=543e9ce0d8c7fe22f822783520a00eb0&amp;oe=5A95D746</media:content>
+		<guid>https://www.facebook.com/1stawesomeplatoon/posts/1112863358817070</guid>
+		<link>https://www.facebook.com/1stawesomeplatoon/posts/1112863358817070</link>
 	</item>
 
 	<item>
@@ -328,25 +345,8 @@
 		<title>[Topkick] Do you guys actually</title>
 		<description><![CDATA[[Topkick] Do you guys actually like our comics, or are all 5.5 thousand of you just doing this because you feel sorry for us?]]></description>
 		<media:content>(null)</media:content>
-		<guid>https://www.facebook.com/1stawesomeplatoon/posts/1100422670061139</guid>
 		<link>https://www.facebook.com/1stawesomeplatoon/posts/1100422670061139</link>
-	</item>
-
-	<item>
-		<pubDate>Tue, 24 Oct 2017 00:32:51 +0000</pubDate>
-		<description><![CDATA[[Topkick] Do you guys actually like our comics, or are all 5.5 thousand of you just doing this because you feel sorry for us?<br/><br/><img src="https://scontent.fric1-1.fna.fbcdn.net/v/t1.0-1/p50x50/10678652_513148238788588_450289005298064376_n.png?oh=543e9ce0d8c7fe22f822783520a00eb0&amp;oe=5A95D746"/>]]></description>
-		<media:content>https://scontent.fric1-1.fna.fbcdn.net/v/t1.0-1/p50x50/10678652_513148238788588_450289005298064376_n.png?oh=543e9ce0d8c7fe22f822783520a00eb0&amp;oe=5A95D746</media:content>
 		<guid>https://www.facebook.com/1stawesomeplatoon/posts/1100422670061139</guid>
-		<link>https://www.facebook.com/1stawesomeplatoon/posts/1100422670061139</link>
-	</item>
-
-	<item>
-		<pubDate>Mon, 23 Oct 2017 21:01:00 +0000</pubDate>
-		<title>[Topkick] I was one of those</title>
-		<description><![CDATA[<p>[Topkick] I was one of those COD hold outs which to this day thinks COD 3 is the best.</p><p> So I kinda have to get the new WW2 one.</p><p> Who else is as hyped as I am.</p>]]></description>
-		<media:content>(null)</media:content>
-		<link>https://www.facebook.com/1stawesomeplatoon/posts/1100317290071677</link>
-		<guid>https://www.facebook.com/1stawesomeplatoon/posts/1100317290071677</guid>
 	</item>
 </channel>
 </rss>
