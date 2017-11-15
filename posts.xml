@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"  xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
-	<pubDate>Wed, 15 Nov 2017 04:00:02 +0000</pubDate>
+	<pubDate>Wed, 15 Nov 2017 05:00:02 +0000</pubDate>
 	<title>1st Awesome Platoon</title>
 	<description>1st Awesome Platoon. 5.5K likes. MLP:FIM Cold-war/Veitnam era comics and military humor.</description>
 	<image>
@@ -15,6 +15,23 @@
 		<media:content>(null)</media:content>
 		<guid>https://www.facebook.com/1stawesomeplatoon/posts/1099514836818589</guid>
 		<link>https://www.facebook.com/1stawesomeplatoon/posts/1099514836818589</link>
+	</item>
+
+	<item>
+		<pubDate>Wed, 15 Nov 2017 05:47:55 +0000</pubDate>
+		<title>[Topkick]</title>
+		<description><![CDATA[[Topkick]<br/><br/><img src="https://scontent.fric1-2.fna.fbcdn.net/v/t1.0-0/s480x480/23472915_1117020191734720_5138994827924193598_n.png?oh=62413d88a22b3d0f84ff4f5a5c135a06&amp;oe=5A964C1C"/>]]></description>
+		<media:content>https://scontent.fric1-2.fna.fbcdn.net/v/t1.0-0/s480x480/23472915_1117020191734720_5138994827924193598_n.png?oh=62413d88a22b3d0f84ff4f5a5c135a06&amp;oe=5A964C1C</media:content>
+		<guid>https://www.facebook.com/1stawesomeplatoon/posts/1117020228401383</guid>
+		<link>https://www.facebook.com/1stawesomeplatoon/posts/1117020228401383</link>
+	</item>
+
+	<item>
+		<pubDate>Wed, 15 Nov 2017 05:47:55 +0000</pubDate>
+		<description><![CDATA[[Topkick]<br/><br/><img src="https://scontent.fric1-2.fna.fbcdn.net/v/t1.0-0/s480x480/23472915_1117020191734720_5138994827924193598_n.png?oh=62413d88a22b3d0f84ff4f5a5c135a06&amp;oe=5A964C1C"/><br/><br/><img src="https://scontent.fric1-2.fna.fbcdn.net/v/t1.0-1/p50x50/10678652_513148238788588_450289005298064376_n.png?oh=543e9ce0d8c7fe22f822783520a00eb0&amp;oe=5A95D746"/>]]></description>
+		<media:content>https://scontent.fric1-2.fna.fbcdn.net/v/t1.0-1/p50x50/10678652_513148238788588_450289005298064376_n.png?oh=543e9ce0d8c7fe22f822783520a00eb0&amp;oe=5A95D746</media:content>
+		<guid>https://www.facebook.com/1stawesomeplatoon/posts/1117020228401383</guid>
+		<link>https://www.facebook.com/1stawesomeplatoon/posts/1117020228401383</link>
 	</item>
 
 	<item>
@@ -328,25 +345,8 @@
 		<title>[Topkick]</title>
 		<description><![CDATA[[Topkick]<br/><br/><img src="https://scontent.fric1-2.fna.fbcdn.net/v/t1.0-0/s480x480/23380161_1114188382017901_3416467546361132060_n.png?oh=9b665c3b644adc9ba945ec8391bc71f0&amp;oe=5A9E58F9"/>]]></description>
 		<media:content>https://scontent.fric1-2.fna.fbcdn.net/v/t1.0-0/s480x480/23380161_1114188382017901_3416467546361132060_n.png?oh=9b665c3b644adc9ba945ec8391bc71f0&amp;oe=5A9E58F9</media:content>
-		<guid>https://www.facebook.com/1stawesomeplatoon/posts/1114188422017897</guid>
 		<link>https://www.facebook.com/1stawesomeplatoon/posts/1114188422017897</link>
-	</item>
-
-	<item>
-		<pubDate>Sat, 11 Nov 2017 15:38:42 +0000</pubDate>
-		<description><![CDATA[[Topkick]<br/><br/><img src="https://scontent.fric1-2.fna.fbcdn.net/v/t1.0-0/s480x480/23380161_1114188382017901_3416467546361132060_n.png?oh=9b665c3b644adc9ba945ec8391bc71f0&amp;oe=5A9E58F9"/><br/><br/><img src="https://scontent.fric1-2.fna.fbcdn.net/v/t1.0-1/p50x50/10678652_513148238788588_450289005298064376_n.png?oh=543e9ce0d8c7fe22f822783520a00eb0&amp;oe=5A95D746"/>]]></description>
-		<media:content>https://scontent.fric1-2.fna.fbcdn.net/v/t1.0-1/p50x50/10678652_513148238788588_450289005298064376_n.png?oh=543e9ce0d8c7fe22f822783520a00eb0&amp;oe=5A95D746</media:content>
 		<guid>https://www.facebook.com/1stawesomeplatoon/posts/1114188422017897</guid>
-		<link>https://www.facebook.com/1stawesomeplatoon/posts/1114188422017897</link>
-	</item>
-
-	<item>
-		<pubDate>Sat, 11 Nov 2017 15:35:51 +0000</pubDate>
-		<title>[Topkick] Repost!</title>
-		<description><![CDATA[[Topkick] Repost!<br/><br/><img src="https://scontent.fric1-2.fna.fbcdn.net/v/t1.0-0/s480x480/23434701_1114186992018040_7642922969072829891_n.png?oh=74fe8077438d4c6c479e4814b94df170&amp;oe=5AA06C3A"/>]]></description>
-		<media:content>https://scontent.fric1-2.fna.fbcdn.net/v/t1.0-0/s480x480/23434701_1114186992018040_7642922969072829891_n.png?oh=74fe8077438d4c6c479e4814b94df170&amp;oe=5AA06C3A</media:content>
-		<link>https://www.facebook.com/1stawesomeplatoon/posts/1114187132018026</link>
-		<guid>https://www.facebook.com/1stawesomeplatoon/posts/1114187132018026</guid>
 	</item>
 </channel>
 </rss>
