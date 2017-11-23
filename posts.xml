@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"  xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
-	<pubDate>Thu, 23 Nov 2017 14:30:02 +0000</pubDate>
+	<pubDate>Thu, 23 Nov 2017 15:00:03 +0000</pubDate>
 	<title>1st Awesome Platoon</title>
 	<description>1st Awesome Platoon. 5.6K likes. MLP:FIM Cold-war/Veitnam era comics and military humor.</description>
 	<image>
@@ -15,6 +15,23 @@
 		<media:content>(null)</media:content>
 		<guid>https://www.facebook.com/1stawesomeplatoon/posts/1099514836818589</guid>
 		<link>https://www.facebook.com/1stawesomeplatoon/posts/1099514836818589</link>
+	</item>
+
+	<item>
+		<pubDate>Thu, 23 Nov 2017 15:39:27 +0000</pubDate>
+		<title>[Topkick]</title>
+		<description><![CDATA[[Topkick]]]></description>
+		<media:content>(null)</media:content>
+		<guid>https://www.facebook.com/1stawesomeplatoon/posts/1123629007740505</guid>
+		<link>https://www.facebook.com/1stawesomeplatoon/posts/1123629007740505</link>
+	</item>
+
+	<item>
+		<pubDate>Thu, 27 Nov 2014 19:40:45 +0000</pubDate>
+		<description><![CDATA[[Topkick]<br/><br/><img src="https://scontent.fric1-2.fna.fbcdn.net/v/t1.0-1/p50x50/23561464_1119374171499322_877787630834421547_n.png?oh=43daa9f161caaf46a1c4163c108c6ba4&amp;oe=5AA51960"/>]]></description>
+		<media:content>https://scontent.fric1-2.fna.fbcdn.net/v/t1.0-1/p50x50/23561464_1119374171499322_877787630834421547_n.png?oh=43daa9f161caaf46a1c4163c108c6ba4&amp;oe=5AA51960</media:content>
+		<guid>https://www.facebook.com/1stawesomeplatoon/posts/1123629007740505</guid>
+		<link>https://www.facebook.com/1stawesomeplatoon/posts/1123629007740505</link>
 	</item>
 
 	<item>
@@ -328,25 +345,8 @@
 		<title>[Topkick] PSA! PSA! PSA!</title>
 		<description><![CDATA[<p>[Topkick] PSA! PSA! PSA! PSA!</p><font color="black">[TOPKICK] Dog! A dog! A dog! A dog!<br/><br/><img src="https://scontent.fric1-2.fna.fbcdn.net/v/t1.0-0/s480x480/23519250_1117684448334961_7742428578545400073_n.png?oh=6281481bb019fe8e279421a8fe7ea6c2&amp;oe=5A934EA3"/>]]></description>
 		<media:content>https://scontent.fric1-2.fna.fbcdn.net/v/t1.0-0/s480x480/23519250_1117684448334961_7742428578545400073_n.png?oh=6281481bb019fe8e279421a8fe7ea6c2&amp;oe=5A934EA3</media:content>
-		<guid>https://www.facebook.com/1stawesomeplatoon/posts/1117684518334954</guid>
 		<link>https://www.facebook.com/1stawesomeplatoon/posts/1117684518334954</link>
-	</item>
-
-	<item>
-		<pubDate>Thu, 16 Nov 2017 02:22:54 +0000</pubDate>
-		<description><![CDATA[<p>[Topkick] PSA! PSA! PSA! PSA!</p><font color="black">[TOPKICK] Dog! A dog! A dog! A dog!<br/><br/><img src="https://scontent.fric1-2.fna.fbcdn.net/v/t1.0-0/s480x480/23519250_1117684448334961_7742428578545400073_n.png?oh=6281481bb019fe8e279421a8fe7ea6c2&amp;oe=5A934EA3"/><br/><br/><img src="https://scontent.fric1-2.fna.fbcdn.net/v/t1.0-1/p50x50/23561464_1119374171499322_877787630834421547_n.png?oh=43daa9f161caaf46a1c4163c108c6ba4&amp;oe=5AA51960"/>]]></description>
-		<media:content>https://scontent.fric1-2.fna.fbcdn.net/v/t1.0-1/p50x50/23561464_1119374171499322_877787630834421547_n.png?oh=43daa9f161caaf46a1c4163c108c6ba4&amp;oe=5AA51960</media:content>
 		<guid>https://www.facebook.com/1stawesomeplatoon/posts/1117684518334954</guid>
-		<link>https://www.facebook.com/1stawesomeplatoon/posts/1117684518334954</link>
-	</item>
-
-	<item>
-		<pubDate>Thu, 16 Nov 2017 01:57:58 +0000</pubDate>
-		<title>[Topkick] Nopony leaves.</title>
-		<description><![CDATA[[Topkick] Nopony leaves. Nopony...<br/><br/><img src="https://scontent.fric1-2.fna.fbcdn.net/v/t1.0-0/s526x395/23621240_1117673988336007_184918630919083551_n.png?oh=104be5ffa403e43218a301f79f5c56dd&amp;oe=5A990843"/>]]></description>
-		<media:content>https://scontent.fric1-2.fna.fbcdn.net/v/t1.0-0/s526x395/23621240_1117673988336007_184918630919083551_n.png?oh=104be5ffa403e43218a301f79f5c56dd&amp;oe=5A990843</media:content>
-		<link>https://www.facebook.com/1stawesomeplatoon/posts/1117674085002664</link>
-		<guid>https://www.facebook.com/1stawesomeplatoon/posts/1117674085002664</guid>
 	</item>
 </channel>
 </rss>
